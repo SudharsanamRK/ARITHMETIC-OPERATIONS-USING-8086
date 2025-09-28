@@ -20,7 +20,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 8. Stop.  
 
 ### Flowchart
-![Flowchart for Addition](https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de)
+<img width="446" height="538" alt="image" src="https://github.com/user-attachments/assets/3053d49f-a1fd-49b3-8190-7272ed108925" />
+
 
 ### Program
 ```asm
